@@ -1,1 +1,1 @@
-# repositorio_henry_dos
+Este proyecto es una prueba de como crearun repositorio y como clonarlo de github a mi escritorio local
